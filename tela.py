@@ -1,5 +1,3 @@
-from cProfile import label
-from doctest import master
 from tkinter import *
 from selenium import webdriver
 from database import Banco_de_Dados
